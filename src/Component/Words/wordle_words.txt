@@ -1,0 +1,9 @@
+radyo
+sehpa
+dolap
+kalem
+kavun
+köpek
+merak
+gazap
+ceviz
